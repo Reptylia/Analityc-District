@@ -1,0 +1,12 @@
+body {
+    background-image:url(https://i.gifer.com/Nv2.gif);
+    background-size: cover;
+    color: white;
+    font-size: 70px;
+}
+
+pre {
+   position: absolute;
+   top:40%;
+   left: 40%;
+}
